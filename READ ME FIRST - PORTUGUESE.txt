@@ -1,0 +1,10 @@
+Como abrir o projeto:
+
+- Abra a pasta através do Visual Studio e depois no Solution Explorer, clique em MainWindow.xaml para visualizar o UI e colocar a correr através do Start (com ou sem Debug) ou em qualquer outro ficheiro C#;
+
+Além do trabalho requerido, foram implementadas as seguintes funcionalidades:
+
+- Trabalho realizado em C# (Windows Forms), .NET Framework & XAML;
+- Implementação de um Gerente que gere a máquina e recolhe o dinheiro armazenado;
+- Implementação da máquina armazenar todo o dinheiro por stock;
+- Capacidade de esvaziar e preencher o stock da máquina;

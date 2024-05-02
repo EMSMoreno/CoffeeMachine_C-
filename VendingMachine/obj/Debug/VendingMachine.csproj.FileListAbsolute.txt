@@ -1,0 +1,32 @@
+C:\Users\Eduardo\OneDrive\Ambiente de Trabalho\Virtual-Vending-Machine-master\VendingMachineTutorial\VendingMachineTutorial\bin\Debug\VendingMachineTutorial.exe.config
+C:\Users\Eduardo\OneDrive\Ambiente de Trabalho\Virtual-Vending-Machine-master\VendingMachineTutorial\VendingMachineTutorial\bin\Debug\VendingMachineTutorial.exe
+C:\Users\Eduardo\OneDrive\Ambiente de Trabalho\Virtual-Vending-Machine-master\VendingMachineTutorial\VendingMachineTutorial\bin\Debug\VendingMachineTutorial.pdb
+C:\Users\Eduardo\OneDrive\Ambiente de Trabalho\Virtual-Vending-Machine-master\VendingMachineTutorial\VendingMachineTutorial\obj\Debug\VendingMachineTutorial.csproj.AssemblyReference.cache
+C:\Users\Eduardo\OneDrive\Ambiente de Trabalho\Virtual-Vending-Machine-master\VendingMachineTutorial\VendingMachineTutorial\obj\Debug\MainWindow.g.cs
+C:\Users\Eduardo\OneDrive\Ambiente de Trabalho\Virtual-Vending-Machine-master\VendingMachineTutorial\VendingMachineTutorial\obj\Debug\App.g.cs
+C:\Users\Eduardo\OneDrive\Ambiente de Trabalho\Virtual-Vending-Machine-master\VendingMachineTutorial\VendingMachineTutorial\obj\Debug\VendingMachineTutorial_MarkupCompile.cache
+C:\Users\Eduardo\OneDrive\Ambiente de Trabalho\Virtual-Vending-Machine-master\VendingMachineTutorial\VendingMachineTutorial\obj\Debug\VendingMachineTutorial_MarkupCompile.lref
+C:\Users\Eduardo\OneDrive\Ambiente de Trabalho\Virtual-Vending-Machine-master\VendingMachineTutorial\VendingMachineTutorial\obj\Debug\App.baml
+C:\Users\Eduardo\OneDrive\Ambiente de Trabalho\Virtual-Vending-Machine-master\VendingMachineTutorial\VendingMachineTutorial\obj\Debug\MainWindow.baml
+C:\Users\Eduardo\OneDrive\Ambiente de Trabalho\Virtual-Vending-Machine-master\VendingMachineTutorial\VendingMachineTutorial\obj\Debug\VendingMachineTutorial.g.resources
+C:\Users\Eduardo\OneDrive\Ambiente de Trabalho\Virtual-Vending-Machine-master\VendingMachineTutorial\VendingMachineTutorial\obj\Debug\VendingMachineTutorial.Properties.Resources.resources
+C:\Users\Eduardo\OneDrive\Ambiente de Trabalho\Virtual-Vending-Machine-master\VendingMachineTutorial\VendingMachineTutorial\obj\Debug\VendingMachineTutorial.csproj.GenerateResource.cache
+C:\Users\Eduardo\OneDrive\Ambiente de Trabalho\Virtual-Vending-Machine-master\VendingMachineTutorial\VendingMachineTutorial\obj\Debug\VendingMachineTutorial.csproj.CoreCompileInputs.cache
+C:\Users\Eduardo\OneDrive\Ambiente de Trabalho\Virtual-Vending-Machine-master\VendingMachineTutorial\VendingMachineTutorial\obj\Debug\VendingMachineTutorial.exe
+C:\Users\Eduardo\OneDrive\Ambiente de Trabalho\Virtual-Vending-Machine-master\VendingMachineTutorial\VendingMachineTutorial\obj\Debug\VendingMachineTutorial.pdb
+C:\Users\Eduardo\OneDrive\Ambiente de Trabalho\Vending-Machine-Eduardo M\VendingMachine\VendingMachine\bin\Debug\VendingMachineTutorial.exe.config
+C:\Users\Eduardo\OneDrive\Ambiente de Trabalho\Vending-Machine-Eduardo M\VendingMachine\VendingMachine\bin\Debug\VendingMachineTutorial.exe
+C:\Users\Eduardo\OneDrive\Ambiente de Trabalho\Vending-Machine-Eduardo M\VendingMachine\VendingMachine\bin\Debug\VendingMachineTutorial.pdb
+C:\Users\Eduardo\OneDrive\Ambiente de Trabalho\Vending-Machine-Eduardo M\VendingMachine\VendingMachine\obj\Debug\VendingMachine.csproj.AssemblyReference.cache
+C:\Users\Eduardo\OneDrive\Ambiente de Trabalho\Vending-Machine-Eduardo M\VendingMachine\VendingMachine\obj\Debug\MainWindow.g.cs
+C:\Users\Eduardo\OneDrive\Ambiente de Trabalho\Vending-Machine-Eduardo M\VendingMachine\VendingMachine\obj\Debug\App.g.cs
+C:\Users\Eduardo\OneDrive\Ambiente de Trabalho\Vending-Machine-Eduardo M\VendingMachine\VendingMachine\obj\Debug\VendingMachineTutorial_MarkupCompile.cache
+C:\Users\Eduardo\OneDrive\Ambiente de Trabalho\Vending-Machine-Eduardo M\VendingMachine\VendingMachine\obj\Debug\VendingMachineTutorial_MarkupCompile.lref
+C:\Users\Eduardo\OneDrive\Ambiente de Trabalho\Vending-Machine-Eduardo M\VendingMachine\VendingMachine\obj\Debug\App.baml
+C:\Users\Eduardo\OneDrive\Ambiente de Trabalho\Vending-Machine-Eduardo M\VendingMachine\VendingMachine\obj\Debug\MainWindow.baml
+C:\Users\Eduardo\OneDrive\Ambiente de Trabalho\Vending-Machine-Eduardo M\VendingMachine\VendingMachine\obj\Debug\VendingMachineTutorial.g.resources
+C:\Users\Eduardo\OneDrive\Ambiente de Trabalho\Vending-Machine-Eduardo M\VendingMachine\VendingMachine\obj\Debug\VendingMachineTutorial.Properties.Resources.resources
+C:\Users\Eduardo\OneDrive\Ambiente de Trabalho\Vending-Machine-Eduardo M\VendingMachine\VendingMachine\obj\Debug\VendingMachine.csproj.GenerateResource.cache
+C:\Users\Eduardo\OneDrive\Ambiente de Trabalho\Vending-Machine-Eduardo M\VendingMachine\VendingMachine\obj\Debug\VendingMachine.csproj.CoreCompileInputs.cache
+C:\Users\Eduardo\OneDrive\Ambiente de Trabalho\Vending-Machine-Eduardo M\VendingMachine\VendingMachine\obj\Debug\VendingMachineTutorial.exe
+C:\Users\Eduardo\OneDrive\Ambiente de Trabalho\Vending-Machine-Eduardo M\VendingMachine\VendingMachine\obj\Debug\VendingMachineTutorial.pdb
